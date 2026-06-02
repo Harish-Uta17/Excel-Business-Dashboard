@@ -104,13 +104,11 @@ This project presents an interactive **Business Performance Analytics Dashboard*
 
 ## ⭐ Project Highlights
 
-✅ Interactive Excel Dashboard
-✅ Revenue & Profit Analysis
-✅ Business KPI Tracking
-✅ Regional Performance Monitoring
-✅ Data Visualization & Reporting
-
----
+- ✅ Interactive Excel Dashboard
+- ✅ Revenue & Profit Analysis
+- ✅ Business KPI Tracking
+- ✅ Regional Performance Monitoring
+- ✅ Data Visualization & Reporting
 
 ### 👨‍💻 Author
 
